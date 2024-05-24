@@ -1,1 +1,1 @@
-# Bitcoin-Price-Prediction
+This repository contains a machine learning project aimed at predicting the price of Bitcoin. The project utilizes historical Bitcoin price data along with various machine learning algorithms to forecast future price movements.
